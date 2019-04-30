@@ -1,0 +1,16 @@
+.footer {
+    width: 1000px;
+    height: 148px;
+    background-color: #000;
+    margin-top: 35px;
+}
+
+.footer .top {
+    height: 40px;
+    background-color: #433287;
+}
+
+.footer .bottom {
+    height: 108px;
+    background-color: #783243;
+}
